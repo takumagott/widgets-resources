@@ -1182,7 +1182,7 @@
             ]
         },
         {
-            "name": "Center cmage",
+            "name": "Center image",
             "type": "Toggle",
             "description": "Center the image.",
             "class": "widget-image-viewer-centered"
